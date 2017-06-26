@@ -1,12 +1,12 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "راهنمای منبع باز"
+description: "یاد بگیرید چگونه پروژه خود را شروع و پرورش دهید."
 
 # See: docs/translations.md
-locale: en-US
+locale: fa-IR
 translations:
-  en-US:
-    name: English (US)
-    url: https://opensource.guide
+  fa-IR:
+    name: فارسی (FA)
+    url: https://fa.opensource.guide
 
 exclude:
   - bin
