@@ -11,7 +11,7 @@ article:
 footer:
   contribute:
     heading: مشارکت
-    description: Want to make a suggestion? This content is open source. Help us improve it.
+    description: پیشنهادی دارید؟ این محتوا متن باز است. برای بهبود کمکمان کنید.
     button: مشارکت کنید
   subscribe:
     heading: برای به روزی رسانی ها پیگیری کیند
@@ -25,4 +25,4 @@ footer:
     # Label for love octicon
     love_label: love
     # Label for the contributors link
-    friends_label: friends
+    friends_label: دوستان
