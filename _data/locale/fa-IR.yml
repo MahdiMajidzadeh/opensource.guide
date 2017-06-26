@@ -1,0 +1,28 @@
+nav:
+  about: درباره
+  contribute: مشارکت
+
+index:
+  lead: نرم افزار متن باز توسط افرادی مثل شما درست شده اند. یاد بگیرید چطوری پروژه خودتان را شروع و گسترش دهید.
+
+article:
+  table_of_contents: جدول محتوا
+
+footer:
+  contribute:
+    heading: مشارکت
+    description: Want to make a suggestion? This content is open source. Help us improve it.
+    button: مشارکت کنید
+  subscribe:
+    heading: برای به روزی رسانی ها پیگیری کیند
+    label: آدرس ایمیل
+    button: پیگیری
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] با [love] توسط [github] و [friends]"
+    # Label for code octicon
+    code_label: code
+    # Label for love octicon
+    love_label: love
+    # Label for the contributors link
+    friends_label: friends
