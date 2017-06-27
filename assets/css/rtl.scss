@@ -1,3 +1,23 @@
-body{
+main{
 	direction: rtl;
+}
+
+@media (min-width: 544px){
+	.float-sm-right {
+		float: left !important;
+	}
+
+	.float-sm-left {
+		float: right !important;
+	}
+}
+
+.ml-2 {
+	margin-left: 0px !important;
+	margin-right: 8px !important;
+}
+
+.mr-2 {
+    margin-right: 0px !important;
+    margin-left: 8px !important;
 }
